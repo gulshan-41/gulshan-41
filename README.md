@@ -6,7 +6,7 @@
 </article>
 
 <article>
-  <h2>Skills</h2>
+  <h2>Tech Stack</h2>
   <ul>
     <li>
       <b>Frontend - </b>
@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/CSS3-663399?logo=css&logoColor=white&style=flat" alt="CSS3 Badge">
       <img src="https://img.shields.io/badge/Saas-CC6699?logo=sass&logoColor=white&style=flat" alt="Saas Badge">
       <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white&style=flat" alt="JavaScript Badge">
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000&style=flat" alt="React Badge">
+      <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=000000&style=flat" alt="React Badge">
     </li>
     <li>
       <b>Backend - </b>
