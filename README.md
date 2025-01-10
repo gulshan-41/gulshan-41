@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB Badge">
     </li>
     <li><b>Languages - </b>
-      <img src="https://img.shields.io/badge/Language-A8B9CC?logo=c&logoColor=white&style=flat" alt="C Badge">
+      <img src="https://img.shields.io/badge/Language-000000?logo=c&logoColor=white&style=flat" alt="C Badge">
       <img src="https://img.shields.io/badge/C++%20Programming-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++ Badge">
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python Badge">
     </li>
