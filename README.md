@@ -22,3 +22,11 @@
     Web development, Mobile development and Network engineering.
   </p>
 </article>
+
+<article>
+  <h2>Status</h2>
+  <ul>
+    <li>I'm currently learing React.</li>
+    <li>And working on linkedList-adt-program.</li>
+  </ul>
+</article>
