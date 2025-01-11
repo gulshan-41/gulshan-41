@@ -7,12 +7,12 @@
   </p>
 </article>
 
-<!-- <article>
+<article>
   <h2>Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mysql,mongodb,c,cpp,python,git,github&perline=6" />
-</article> -->
+</article>
 
-## Tech Stack
+<!-- ## Tech Stack
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -23,7 +23,7 @@
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 
 <article>
   <h2>Interests</h2>
