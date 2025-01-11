@@ -7,27 +7,23 @@
   </p>
 </article>
 
-<article>
+<!-- <article>
   <h2>Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mysql,mongodb,c,cpp,python,git,github&perline=6" />
-</article>
+</article> -->
 
-<article>
-  <h2>Tech Stack</h2>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5 Badge">
-    <img src="https://img.shields.io/badge/CSS3-663399?logo=css&logoColor=white&style=flat" alt="CSS3 Badge">
-    <img src="https://img.shields.io/badge/Saas-CC6699?logo=sass&logoColor=white&style=flat" alt="Saas Badge">
-    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=000000&style=flat" alt="React Badge">
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat" alt="Nodejs Badge">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL Badge">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB Badge">
-    <img src="https://img.shields.io/badge/Language-000000?logo=c&logoColor=white&style=flat" alt="C Badge">
-    <img src="https://img.shields.io/badge/C++%20Programming-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++ Badge">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python Badge">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git Badge">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub Badge">
-</article>
+## Tech Stack
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <article>
   <h2>Interests</h2>
