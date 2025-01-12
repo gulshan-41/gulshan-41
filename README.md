@@ -9,7 +9,7 @@
 
 <article>
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mysql,mongodb,c,cpp,python,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mysql,mongodb,c,cpp,python,git,github&perline=7" />
 </article>
 
 <!-- ## Tech Stack
