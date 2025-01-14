@@ -36,7 +36,7 @@
   <h2>Status</h2>
   <ul>
     <li>Currently I'm learing React.</li>
-    <li>And working on linkedList-adt-program.</li>
+    <li>And working on singly-linkedList-adt-program.</li>
   </ul>
 </article>
 
