@@ -3,7 +3,7 @@
 <article>
   <h2>About me 🧑🏻‍💻</h2>
   <p>
-    Ambitious IT student with expertise in Frontend Development, Data structures, DBMS and comprehensive computer applications. Strong presentational and communal skills, adept at managing work, maintaining a clean code          base, employing out-of-the-box problem-solving approach. And I'm a slow learner.
+    Ambitious CS student with expertise in Frontend Development, Data structures, DBMS and comprehensive computer applications. Strong presentational and communal skills, adept at managing work, maintaining a clean code          base, employing out-of-the-box problem-solving approach. And I'm a slow learner.
   </p>
 </article>
 
