@@ -29,7 +29,7 @@
 <article>
   <h2>Interests</h2>
   <p>
-    Web development, Mobile development and Network engineering.
+    Web development, desktop applications and Network engineering.
   </p>
 </article>
 
